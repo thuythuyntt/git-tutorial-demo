@@ -3,4 +3,4 @@
 
 #include<math.h>
 
-
+thuy2
