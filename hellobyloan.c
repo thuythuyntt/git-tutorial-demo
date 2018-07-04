@@ -3,4 +3,6 @@
 
 #include<math.h>
 
+thuy
+
 
